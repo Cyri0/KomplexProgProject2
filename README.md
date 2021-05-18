@@ -1,5 +1,8 @@
 # OroszRulett játék
 
+> Amikor igent mondasz másoknak, győződj meg róla, hogy nem mondasz nemet magadnak.
+
+
 ## Program leírása
 
 A klasszikus orosz rulett játék megvalósítása webes környezetben.
