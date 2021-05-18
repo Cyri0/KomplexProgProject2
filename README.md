@@ -14,10 +14,10 @@ A programot nem kell telepíteni, csak egy böngésző szükséges hozzá.
 
 ## Felhasznált technológiák
 
-- HTML
-- CSS
-- [JavaScript](https://www.javascript.com/)
-- [Django (Python)](https://www.djangoproject.com/)
+* HTML
+* CSS
+* [JavaScript](https://www.javascript.com/)
+* [Django (Python)](https://www.djangoproject.com/)
 
 ## Érdekes megoldások
 
